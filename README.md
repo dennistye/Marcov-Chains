@@ -1,5 +1,4 @@
-# Project 3
-## CSUF CPSC 131, Spring 2020
+# Marcov Chains
 
-- Dennis Tye dennis.tye@csu.fullerton.edu
+This program generates text using Markov chains after being trained on input text. Can be used to develop an auto text generator.
 
